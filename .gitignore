@@ -1,0 +1,26 @@
+
+.gitattributes
+.vs/conection database/v15/.suo
+*.db
+*.opendb
+*.lock
+conection database/Resources/back1.jpg
+conection database/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll
+conection database/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+conection database/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+conection database/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+conection database/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+conection database/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+conection database/obj/Debug/CoreCompileInputs.cache
+conection database/obj/Debug/conection_database.Properties.Resources.resources
+conection database/obj/Debug/conection_database.Form2.resources
+conection database/obj/Debug/conection_database.Form1.resources
+conection database/obj/Debug/conection database.pdb
+conection database/obj/Debug/conection database.exe
+conection database/obj/Debug/conection database.csprojResolveAssemblyReference.cache
+conection database/obj/Debug/conection database.csprojAssemblyReference.cache
+conection database/obj/Debug/conection database.csproj.GenerateResource.Cache
+conection database/obj/Debug/conection database.csproj.FileListAbsolute.txt
+conection database/obj/Debug/conection database.csproj.CoreCompileInputs.cache
+conection database/bin/Debug/conection database.pdb
+conection database/bin/Debug/conection database.exe.config
